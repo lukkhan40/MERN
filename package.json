@@ -13,18 +13,18 @@
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.3",
-    "babel-loader": "^8.1.0",
+    "babel-loader": "^8.2.5",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "express": "^4.17.1",
-    "mongoose": "^5.10.9",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.1",
     "morgan": "^1.10.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4",
-    "webpack": "^5.0.0",
-    "webpack-cli": "^4.0.0"
+    "nodemon": "^2.0.19",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
   }
 }
